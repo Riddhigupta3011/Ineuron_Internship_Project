@@ -1,6 +1,6 @@
 # Ineuron_Internship_Project
 
-# Flight Fare Prediction Project
+# Project Title - Flight Fare Prediction Project
 
 ## Project Overview
 Travelling through flights has become an integral part of today’s lifestyle, and predicting flight ticket prices can help travelers save money and time. 
@@ -9,3 +9,7 @@ Travelling through flights has become an integral part of today’s lifestyle, a
 
 
 ## Getting Started
+
+
+#### Domain - Aviation 
+#### Project Difficulties Level - Intermediate

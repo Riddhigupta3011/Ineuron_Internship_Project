@@ -2,4 +2,4 @@
 
 ## Project - 1 
 
-** Flight Fare Prediction ** 
+### Flight Fare Prediction
